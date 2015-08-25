@@ -1,0 +1,60 @@
+﻿body {
+
+    font-family:Arial Verdana;
+    background-color:gray;
+
+}
+#wrapper{
+width:960px;
+margin:0;
+overflow:hidden;
+}
+
+#header{
+    height:150px;
+    background-color:#4cff00;
+}
+#nav{
+    height:45px;
+    background:linear-gradient(to top,#00ffff,#00ff21);
+
+}
+#Lsidebar{
+    float:left;
+    width:192px;
+    margin:2px;
+    overflow:hidden;
+   
+}
+#session{
+    float:left;
+    padding:10px 15px;
+    width:781px;
+    margin:2px 0 2px 0;
+     
+    overflow:hidden;
+}
+
+#upload{
+    float:left;
+    overflow:hidden;
+}
+#gridview{
+    float:right;
+   
+}
+#Rsidebar{
+    float:right;
+    width:192px;
+    margin:2px;
+    
+    overflow:hidden;
+}
+#footer{
+    text-align:center;
+    margin-top:10px;
+     height:150px;
+     background:linear-gradient(to top,#Green,#Red); 
+     clear:both;
+
+}
